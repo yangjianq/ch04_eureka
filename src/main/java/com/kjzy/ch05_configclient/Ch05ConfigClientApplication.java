@@ -10,5 +10,6 @@ public class Ch05ConfigClientApplication {
         SpringApplication.run(Ch05ConfigClientApplication.class, args);
         System.out.println("66677");
         System.out.println("66677");
+        System.out.println("hot");
     }
 }
