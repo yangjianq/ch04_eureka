@@ -12,6 +12,6 @@ public class Ch05ConfigClientApplication {
         System.out.println("66677");
         System.out.println("66677");
         System.out.println("66677");
-        System.out.println("66677");
+        System.out.println("mast");
     }
 }
